@@ -1,16 +1,38 @@
-### Hi there 👋
+### Hi, Chuck is here 👋
 
-<!--
-**chuck1in/chuck1in** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+![exp](https://img.shields.io/badge/experience-10%20years%20%2B-important) ![stack](https://img.shields.io/badge/skill-java-red) ![stack](https://img.shields.io/badge/skill-typescript-blue) ![stack](https://img.shields.io/badge/skill-javascript-yellow)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 😊 Nice to meet you
+- 👀 [I am looking for a way to make everyone happy](https://github.com/chuck1in/happiness-formula)
+- 💡 My hobbies are reading and writing
+- 👉 [Learn about my works](https://www.mjga.cc)
+- 🤝 Please contact me via email
+- ❤️ Love and peace
+---
+
+```javascript
+const world = [];
+const happiness = (world) => {
+  // Get happiness
+  const peace = (world) => {
+    // Get peace
+    const love = (anybody) => {
+      // Get love
+    };
+    return love;
+  };
+  return peace;
+};
+const peace = happiness(world);
+const love = peace(world);
+world.map((anybody) => love(anybody));
+
+```
+
+
+
+
+
+
